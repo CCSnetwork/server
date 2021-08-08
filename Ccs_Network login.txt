@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+        <link href="https://fonts.googleapis.com/css?family=Oswald|Raleway&display=swap" rel="stylesheet">
+    </head>
+    <body>
+    ×<h1>Ccs_network</h1>
+    <br>
+        <h2>VPN</h2>
+        <br>
+        <input type="type" name="Enter Name" placeholder="Email or Username">
+        <br>
+        <br>
+        <input type="type" name="Enter"
+        placeholder="Password">
+        <h3>Forgot Password?</h3>
+        <div class="log">Log In</div>
+        <br>
+        <h4>Need an account?<font color="#0993f3"> Start a Free Trial</font></h4>
+    </body>
+</html>
